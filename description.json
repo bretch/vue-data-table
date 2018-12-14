@@ -1,0 +1,13 @@
+{
+    "name": "Jazel Bretch Malabanan",
+    "email": "dev.jazelbretch@gmail.com",
+    "location": "Davao City, PH",
+    "github": "https://github.com/jazelbretch/",
+    "linked_in": "https://www.linkedin.com/in/jazel-malabanan/",
+    "sample_works": [
+        "https://jazelbretch.github.io/vue-data-table/",
+        "https://awesometours.herokuapp.com/",
+        "https://contactsapp-vue.herokuapp.com/"
+    ],
+    "education": "BS Computer Science, University of the Philippines Mindanao"
+}
