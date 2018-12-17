@@ -45,6 +45,13 @@ export default {
       return this.item[this.column.name]
     }
   },
+  watch: {
+    'item' (newValue, oldValue) {
+      if (newValue !== oldValue) {
+        this.input = this.item[this.column.name]
+      }
+    }
+  },
   methods: {
     toggleEdit () {
       this.edit = !this.edit
