@@ -14,7 +14,7 @@ As a payment supervisor, I would like to be able to edit the descriptions of rec
 - Deploy via GitHub Pages
 
 ##### Demo
-[Payments Record sorted by Date](https://jazelbretch.github.io/vue-data-table/)
+[Payments Record sorted by Date](https://bretch.github.io/vue-data-table/)
  
 ## Project setup
 ```
